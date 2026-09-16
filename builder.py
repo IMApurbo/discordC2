@@ -15,9 +15,9 @@ from pathlib import Path
 # ============================================================
 # CONFIG
 # ============================================================
-BOT_TOKEN  = ""
-CHANNEL_ID = ""
-GUILD_ID   = ""
+BOT_TOKEN  = "YOUR_BOT_TOKEN"
+CHANNEL_ID = "YOUR_CHANNEL_ID"
+GUILD_ID   = "YOUR_GUILD_ID"
 OUT_NAME   = "c2_client"
 # ============================================================
 
